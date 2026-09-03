@@ -1,8 +1,8 @@
 ---
-title: Test of the first technical document
-description: Some technical thing. 
+title: Test of the first Lean document
+description: Some Lean thing. 
 ---
 
-## This is a techincal document
+## This is a Lean document
 
-Contents. 
+Contents about Lean. 
