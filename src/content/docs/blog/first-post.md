@@ -1,6 +1,6 @@
 ---
-title: 初めてのブログ記事
+title: This is the first blog post. 
 date: 2026-09-03
 ---
 
-ここにテスト本文を書きます。
+This is the first post. 
