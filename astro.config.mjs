@@ -6,10 +6,9 @@ import starlightBlog from 'starlight-blog';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://ishiut.github.io/', 
-	base: '/lean_study_group_site', 
 	integrations: [
 		starlight({
-			title: 'Miami Lean Study Group',
+			title: "Tetsuya Ishiu's page",
 			plugins: [
 				starlightBlog(), 
 			], 
@@ -17,7 +16,7 @@ export default defineConfig({
 				{
 					label: 'Documents', 
 					items: [
-						{ autogenerate: {directory: 'lean'} }, 
+						{ autogenerate: {directory: 'lean-sg'} }, 
 					], 
 				}, 
 			], 

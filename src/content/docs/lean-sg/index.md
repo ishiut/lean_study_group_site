@@ -1,6 +1,8 @@
 ---
 title: "Lean Study Group"
 description: "Weekly study group on Lean, formal proof verification, and interactive theorem proving."
+sidebar:
+  order: 1
 ---
 
 ## What is this group? 
@@ -12,7 +14,7 @@ No prior registration is required.
 ## Fall 2026 meeting information
 The first meeting details are as follows: 
 
-- **First Meeting:** Monday, September 4th
+- **First Meeting:** Monday, September 14th
 - **Time:** 5:00 pm - 6:00 pm
 - **Location:** BEN 213
 - **Recurring Schedule:** Mondays, 5:00 pm -- 6:00 pm (except during university holidays)
@@ -22,6 +24,8 @@ The first meeting details are as follows:
 [Lean](https://lean-lang.org/) is an open-source programming language and proof assistant designed to verify algorithm correctness and construct formal (machine-verifiable) mathematical proofs. 
 Prominent mathematicians, including Terence Tao and Tim Gowers, are actively engaged in the project. 
 Beyond pure mathematics, software companies use Lean and similar formal tools to verify mission-critical systems. 
+
+The landscape around formal proofs has shifted dramatically over the past year. AI models are increasingly proving new theorems and writing formalizations in Lean. As AI continues to transform research and software development, proof assistants play an essential role in validating generated results.
 
 ## What to expect
 
