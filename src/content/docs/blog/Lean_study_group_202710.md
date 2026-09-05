@@ -7,12 +7,12 @@ draft: false
 
 The Lean Study Group is returning this semester. 
 
-> ** First Meeting Details **
+> **First Meeting Details**
 > - **Date:** Monday, September 14th
 > - **Time:** 5:00 -- 6:00 pm
 > - **Location:** BEN 213
 > 
-> See [Lean Study Group Information](/lean_sg/) for details. 
+> See [Lean Study Group Information](/lean-sg/) for details. 
 
 ## Why Lean? 
 
