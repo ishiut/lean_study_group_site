@@ -5,20 +5,23 @@ import starlightBlog from 'starlight-blog';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://ishiut.github.io/', 
+	base: '/lean_study_group_site', 
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Miami Lean Study Group',
 			plugins: [
 				starlightBlog(), 
 			], 
 			sidebar: [
 				{
-					label: 'Technical documents', 
+					label: 'Documents', 
 					items: [
-						{ autogenerate: {directory: 'guides'} }, 
+						{ autogenerate: {directory: 'lean'} }, 
 					], 
 				}, 
 			], 
+			customCss: ['./src/styles/custom.css'],
 		}),
 	],
 });

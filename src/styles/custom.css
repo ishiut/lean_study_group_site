@@ -1,0 +1,7 @@
+.hero img {
+  max-width: 280px;      /* Adjust maximum width as needed */
+  max-height: 280px;     /* Prevents the image from expanding vertically */
+  width: auto;
+  height: auto;
+  object-fit: contain;  /* Ensures the entire image stays visible without cropping */
+}
