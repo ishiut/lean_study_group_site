@@ -18,6 +18,7 @@ The first meeting details are as follows:
 - **Time:** 5:00 pm - 6:00 pm
 - **Location:** BEN 213
 - **Recurring Schedule:** Mondays, 5:00 pm -- 6:00 pm (except during university holidays)
+- **Contact:** Tetsuya Ishiu (<ishiut@miamioh.edu>)
 
 ## What is Lean? 
 
